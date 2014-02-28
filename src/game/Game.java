@@ -66,7 +66,9 @@ public class Game extends Canvas implements Runnable {
     }
 
     public synchronized void stop() {
-          }
+        running = false;
+        asdasdasdasdasdasd
+        }
 
     @Override
     public void run() {
